@@ -1,1 +1,1 @@
-spring.cloud.eureka.client=8012
+gateway.port=8012
